@@ -12,7 +12,7 @@ int main()
         printf("a es mayor\n");
     }
     else
-    {printf("b es mayor o igual a\n");
+    {printf("b es mayor o igual a a\n");
         
     }
     return 0;
